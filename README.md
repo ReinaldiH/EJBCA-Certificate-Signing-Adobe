@@ -116,9 +116,23 @@ Your document is now digitally signed using the issued certificate.
 
 ![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tnSXRh2fSvM3bRib469HKw.png)  
 
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*k3bskNn1gx5C0onQHmtoCg.png)  
-
 ![Gambar](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*k3bskNn1gx5C0onQHmtoCg.png)
+
+![Gambar 1](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*k3bskNn1gx5C0onQHmtoCg.png)
+
+![Gambar 2](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*TNcoi9xHa4s3CuIIJFQcnQ.png)
+
+![Gambar 3](https://miro.medium.com/v2/resize:fit:1196/format:webp/1*JKtFqq-YzcCUVZwTOqFrxQ.png)
+
+![Gambar 4](https://miro.medium.com/v2/resize:fit:1052/format:webp/1*iEURiTVGqX-ZLXdHOBBtpg.png)
+
+![Gambar 5](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*T9Q17jgKTmRUgVArb7QvlQ.png)
+
+![Gambar 6](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8u6eBHGznfgYUcNl_Nrn3Q.png)
+
+![Gambar 7](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*FY8A_YPv1rrIF-aCphORig.png)
+
+![Gambar 8](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4lQ9zFBkSGQUpBze1t_DCQ.png)
 
 
 
