@@ -14,3 +14,13 @@ To create a certificate profile, you can log into the EJBCA admin page and then 
 Clone the ROOTCA you have; once it appears in the list of certificate profiles, edit it first by following the settings in the image below
 
 ![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*e6Ax6u2PZV09bpPvv_pVNg.png)
+
+![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*OG9iNwPVYV5yyLE6UToaag.png)  
+
+![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Gw__oAq3eZW4cbUsemPC6Q.png)  
+
+![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9gLAszEV4y2dBCKNvA31Jw.png)  
+
+![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dI-w9hzx7ustCSNISXi13A.png)  
+
+![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ehPYfFZ-Vvc0v-cHUCPIHQ.png)  
