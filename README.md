@@ -1,4 +1,4 @@
-# EJBCA-Installation
+# How to Create an Electronic Certificate in EJBCA and Sign in Adobe
 
 In the context of electronic signatures, PAdES, or PDF Advanced Electronic Signatures, is a set of rules and extensions applied to the PDF format and ISO 32000-1 to support Advanced Electronic Signatures (AdES). PAdES is important because it ensures that electronically signed documents remain valid and can be validated over a long period, possibly for years or even centuries. This meets the requirements of the European eIDAS regulation, which governs electronic identification and trust services for electronic transactions.
 
