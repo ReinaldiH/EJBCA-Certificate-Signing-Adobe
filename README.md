@@ -94,6 +94,7 @@ Before proceeding, you can also visit the Public Web page.
 ![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lqpiEHUnVKY6v7AYigyojw.png)  
 
 6. Electronically Signing a Document Using the Issued Certificate
+
 Once the certificate has been issued, the next step is to sign a document using the certificate in Adobe Acrobat.
 
 1. Open the .pdf file you want to sign in Adobe Acrobat.
