@@ -98,16 +98,12 @@ Once the certificate has been issued, the next step is to sign a document using 
 
 1. Open the .pdf file you want to sign in Adobe Acrobat.
 2. Navigate to Tools → Certificates → Digitally Sign.
-
 3. Click Configure New Digital ID.
-
 4. Select Use a Digital ID from a file → Browse.
-
 5. Enter the password for the Digital ID.
-
 6. Click Add Digital ID, then select the Digital ID you just added.
-
 7. Enter the password again and click Sign.
+
 
 Your document is now digitally signed using the issued certificate.
 
