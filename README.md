@@ -9,4 +9,5 @@ Creating a certificate profile for issuing a CA that is one level below the Root
 
 To create a certificate profile, you can log into the EJBCA admin page and then select the certificate profiles option.
 
-https://miro.medium.com/v2/resize:fit:1400/format:webp/1*nTOnXlReNyvSxMLAIF3piw.png
+![Diagram of the system](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*nTOnXlReNyvSxMLAIF3piw.png)
+
