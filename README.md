@@ -117,13 +117,6 @@ Your document is now digitally signed using the issued certificate.
 ![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tnSXRh2fSvM3bRib469HKw.png)  
 
 ![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*k3bskNn1gx5C0onQHmtoCg.png)  
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*TNcoi9xHa4s3CuIIJFQcnQ.png)  
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1196/format/webp/1*JKtFqq-YzcCUVZwTOqFrxQ.png)  
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1052/format/webp/1*iEURiTVGqX-ZLXdHOBBtpg.png)  
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*T9Q17jgKTmRUgVArb7QvlQ.png) 
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*8u6eBHGznfgYUcNl_Nrn3Q.png)  
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*FY8A_YPv1rrIF-aCphORig.png) 
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*4lQ9zFBkSGQUpBze1t_DCQ.png)  
 
 7. Validating a Signed Document on Kominfo
 
