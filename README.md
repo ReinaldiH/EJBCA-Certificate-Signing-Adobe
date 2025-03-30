@@ -142,5 +142,5 @@ Upload the digitally signed document.
 
 If the validation is successful, you should see a confirmation message similar to the one shown below.
 
-![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*Np2eAM_iUAG4ymxVanEP8A.png)  
+![Validation Success](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*Np2eAM_iUAG4ymxVanEP8A.png)  
 
