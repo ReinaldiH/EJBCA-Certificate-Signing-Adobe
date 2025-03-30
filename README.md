@@ -118,6 +118,10 @@ Your document is now digitally signed using the issued certificate.
 
 ![EJBCA Picture](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*k3bskNn1gx5C0onQHmtoCg.png)  
 
+![Gambar](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*k3bskNn1gx5C0onQHmtoCg.png)
+
+
+
 7. Validating a Signed Document on Kominfo
 
 To validate the signed document:
